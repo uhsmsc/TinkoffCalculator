@@ -99,7 +99,13 @@
 		2B201AD42B9EEC30007E228C /* TinkoffCalculator */ = {
 			isa = PBXGroup;
 			children = (
-				2BFB31002BA2124900EE10D5 /* Base.lproj */,
+				2B201AD52B9EEC30007E228C /* AppDelegate.swift */,
+				2B201AE32B9EEC33007E228C /* Info.plist */,
+				2B201AD72B9EEC30007E228C /* SceneDelegate.swift */,
+				2B201AD92B9EEC30007E228C /* ViewController.swift */,
+				2B201ADB2B9EEC30007E228C /* Main.storyboard */,
+				2B201ADE2B9EEC33007E228C /* Assets.xcassets */,
+				2B201AE02B9EEC33007E228C /* LaunchScreen.storyboard */,
 				2BFB30FF2BA2121700EE10D5 /* Assets.xcassets */,
 			);
 			path = TinkoffCalculator;
@@ -128,20 +134,6 @@
 			);
 			name = Assets.xcassets;
 			path = ../Assets.xcassets;
-			sourceTree = "<group>";
-		};
-		2BFB31002BA2124900EE10D5 /* Base.lproj */ = {
-			isa = PBXGroup;
-			children = (
-				2B201AD52B9EEC30007E228C /* AppDelegate.swift */,
-				2B201AE32B9EEC33007E228C /* Info.plist */,
-				2B201AD72B9EEC30007E228C /* SceneDelegate.swift */,
-				2B201AD92B9EEC30007E228C /* ViewController.swift */,
-				2B201ADB2B9EEC30007E228C /* Main.storyboard */,
-				2B201ADE2B9EEC33007E228C /* Assets.xcassets */,
-				2B201AE02B9EEC33007E228C /* LaunchScreen.storyboard */,
-			);
-			path = Base.lproj;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
